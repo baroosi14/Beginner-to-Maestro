@@ -1,2 +1,2 @@
-# Beginner-to-Maestro
+# music-learning-app
 Unlock Your Musical Potential
