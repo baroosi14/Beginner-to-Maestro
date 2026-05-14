@@ -1,0 +1,30 @@
+# Environment
+.env
+*.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+frontend/dist/
+mobile/.expo/
+mobile/ios/
+mobile/android/
+
+# Uploads / storage
+backend/storage/uploads/*
+!backend/storage/uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
